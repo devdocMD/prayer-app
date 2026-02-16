@@ -151,7 +151,7 @@ ${window.location.href}`;
         </p>
         <h1 className="max-w-3xl text-4xl leading-tight font-semibold text-ink sm:text-5xl">
           오늘의 감정과 상황에 맞는 기도문을 추천해 드립니다.
-        </p>
+        </h1>
       </header>
 
       <section className="card glass space-y-8">
