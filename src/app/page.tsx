@@ -151,11 +151,6 @@ ${window.location.href}`;
         </p>
         <h1 className="max-w-3xl text-4xl leading-tight font-semibold text-ink sm:text-5xl">
           오늘의 감정과 상황에 맞는 기도문을 추천해 드립니다.
-        </h1>
-        <p className="max-w-2xl text-base leading-relaxed text-ink/70 sm:text-lg">
-          감정과 상황을 각각 선택하면 가장 잘 맞는 샘플 기도문 3개를 보여줍니다. 지금은 샘플 기반
-          추천만 제공하며, 다음 단계에서 키워드 검색 API와 즐겨찾기, 공유 기능을 붙일 수 있게 구조를
-          열어두었습니다.
         </p>
       </header>
 
